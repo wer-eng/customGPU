@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Users/BEK/repos/customGPU/fpga/IMG_FILTER_DISPLAY/src/gowin_rpll/gowin_rpll.v",
+  "InstLine" : 10,
+  "InstName" : "Gowin_rPLL",
+  "ModuleFile" : "C:/Users/BEK/repos/customGPU/fpga/IMG_FILTER_DISPLAY/src/gowin_rpll/gowin_rpll.v",
+  "ModuleLine" : 10,
+  "ModuleName" : "Gowin_rPLL"
+ }
+]
